@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".SearchActivity"
             android:screenOrientation="landscape"></activity>
+        <activity android:name=".AlbumViewJ"
+            android:screenOrientation="landscape"></activity>
     </application>
 
 </manifest>
